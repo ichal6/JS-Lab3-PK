@@ -6,3 +6,4 @@ rozmawia
 liczy
 kupuje
 analizuje
+

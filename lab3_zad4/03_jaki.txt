@@ -6,3 +6,4 @@ prosty
 krzywy
 różowy
 okrągły
+
